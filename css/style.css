@@ -31,6 +31,10 @@ main h1{
   text-align: center;
 }
 
+h2{
+  text-align: center;
+}
+
 .projects-container{
   width:1200px;
   margin: auto;
